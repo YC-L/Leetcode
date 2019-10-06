@@ -14,7 +14,8 @@ class Solution {
         return ans;
     }
 }
-// 两遍哈希 (dynamic programming)
+// 空间换时间(dynamic programming)
+// 两遍哈希 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
