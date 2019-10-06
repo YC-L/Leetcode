@@ -3,7 +3,5 @@
 
 - [按题目难度](https://github.com/YC-L/leetcode/tree/By-difficulty-of-question "按题目难度")
 
-- [按题目顺序](https://github.com/YC-L/leetcode/tree/By-order-of-title "按题目顺序")
-
 - [按照题目分类](https://github.com/YC-L/leetcode/tree/By-question-type "按照题目分类")
 
