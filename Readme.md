@@ -23,6 +23,10 @@
 
 - [反转链表](https://github.com/YC-L/Leetcode/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/Solution.java)
 
+### 递归
+
+- [合并有序列表](https://github.com/YC-L/Leetcode/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/Solution.java)
+
 ## 按数学知识分类
 
 ### 简单的规律
