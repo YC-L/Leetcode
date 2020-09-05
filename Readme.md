@@ -25,7 +25,7 @@
 
 ### 递归
 
-- [合并有序列表](https://github.com/YC-L/Leetcode/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/Solution.java)
+- [合并有序列表](https://github.com/YC-L/Leetcode/blob/master/%E5%90%88%E5%B9%B6%E4%B8%A4%E6%9D%A1%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/Solution.java)
 
 ## 按数学知识分类
 
