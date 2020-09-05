@@ -23,6 +23,8 @@
 
 - [反转链表](https://github.com/YC-L/Leetcode/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/Solution.java)
 
+- [删除排序数组中重复项](https://github.com/YC-L/Leetcode/blob/master/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E9%A1%B9/Solution.java)
+
 ### 递归
 
 - [合并有序列表](https://github.com/YC-L/Leetcode/blob/master/%E5%90%88%E5%B9%B6%E4%B8%A4%E6%9D%A1%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/Solution.java)
