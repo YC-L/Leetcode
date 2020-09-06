@@ -48,7 +48,7 @@
 
 ### 滑动窗口
 
-- [实现strStr()函数](https://github.com/YC-L/Leetcode/blob/master/%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC/Solution.java)
+- [实现strStr()函数](https://github.com/YC-L/Leetcode/blob/master/%E5%AE%9E%E7%8E%B0strStr()/Solution.java)
 
 
 
