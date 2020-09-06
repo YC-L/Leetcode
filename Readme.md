@@ -7,15 +7,17 @@
 
 - [队列模拟栈](https://github.com/YC-L/Leetcode/blob/master/%E9%98%9F%E5%88%97%E6%A8%A1%E6%8B%9F%E6%A0%88/Solution.java)
 
-
 ### 栈
 
 - [有效的括号](https://github.com/YC-L/Leetcode/blob/master/%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7/Solution.java)
 
-
 ### 哈希
 
 - [两数之和](https://github.com/YC-L/Leetcode/tree/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C)
+
+### 二分查找
+
+- [探索插入位置](https://github.com/YC-L/Leetcode/blob/master/%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7/Solution.java)
 
 ## 按计算机概念
 
