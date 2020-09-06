@@ -17,7 +17,7 @@
 
 ### 二分查找
 
-- [探索插入位置](https://github.com/YC-L/Leetcode/blob/master/%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7/Solution.java)
+- [探索插入位置](https://github.com/YC-L/Leetcode/blob/master/%E6%8E%A2%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE/Solution.java)
 
 ## 按计算机概念
 
